@@ -1,0 +1,10 @@
+
+{
+  "name": "first-ci-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "build": "node build.js"
+  }
+}
